@@ -85,7 +85,6 @@ html += /* html */`
                 object-fit
                 h-full
                 w-full
-                hidden              md:block
                 ">
                 <slot></slot>
             </div>
